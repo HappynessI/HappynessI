@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**HappynessI/HappynessI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a second-year college student in Tianjin University, minoring in IMIS(Information Management and Information System) of CoME college.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interesting in business analysis.
+
+- 🔭 I’m currently working on Machine Learing.
+- 🌱 I’m dreaming of persuing a career as a professional business analyst at a major tech company.
+- 👯 My hobbies:
+  - Bodybuilding!
+  - Cycling!
+  - Badminton!
+
+Should you find my profile intriguing, please don't hesitate to contact me.
+
+- 📫 How to reach me: yihan_wang1895@tju.edu.cn
+
+
